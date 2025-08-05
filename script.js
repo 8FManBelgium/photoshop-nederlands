@@ -1,3 +1,4 @@
 window.onload = function() {
-document.getElementById("autoplay").play;
+var video = document.getElementById("autoplay");
+video.play;
 }
