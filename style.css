@@ -73,6 +73,9 @@ button:hover{
     color: #fff;
     
 }
+section{
+    height: 800%;
+}
 @media (max-width: 500px) {
    section{
     height: 500%;
